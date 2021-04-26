@@ -16,3 +16,4 @@ sudo docker pull mailgva/spring-boot:1.0
 
 sudo docker run -d -p 80:8080 -t spring-boot:1.0
 
+good example!
